@@ -3,12 +3,6 @@
     - Security: Level Medium (Numeric Strings)
     - Status: Ultra Lite for Delta
 ]]
---[[ 
-    🔥 HÙNG FORSAKEN HUB V1.4 - NUMERIC ENCRYPTED 🔥
-    - Security: Level Medium (Numeric Bytecode)
-    - Fix: Invisible Effects 3m & Ghost System
-]]
-
 local function _0xH(d)
     local r = ""
     for b in d:gmatch("%d+") do r = r .. string.char(tonumber(b)) end
@@ -23,5 +17,5 @@ local _0xData = [[
 -- Giải mã và thực thi
 loadstring(_0xH(_0xData))()
 
--- Thông báo cuối script theo style của ông
+-- Thông báo cuối script theo style 
 print(_0xH("72 85 78 71 32 70 79 83 65 75 69 78 32 86 49 46 54 32 69 78 67 82 89 80 84 69 68"))
